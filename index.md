@@ -3,7 +3,7 @@ layout: page
 title: About me
 cover: false
 ---
-Hi, I am Yilun Xu. I just obtained my Bacheor’s degree from Turing Class at Peking University, where I worked with Yizhou Wang, Yuqing Kong and Stefano Ermon.
+Hi, I am Yilun Xu. I just obtained my Bacheor’s degree from EECS dept at Peking University, where I worked with [Yizhou Wang](http://cfcs.pku.edu.cn/faculty/adjunct/wangyizhou/index.htm), [Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) and [Stefano Ermon](https://cs.stanford.edu/~ermon/). I will attend MIT for my graduate study this Sept.
  
 My [research](papers) interests are broad, and I have worked on many engineering, scientific,
 and mathematical problems in natural language processing. 
