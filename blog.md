@@ -2,6 +2,6 @@
 layout: list
 title: Blog
 cover: false
-menu: true
+menu: false
 order: 5
 ---

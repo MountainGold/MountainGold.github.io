@@ -2,7 +2,7 @@
 layout: page
 title:  Papers
 cover:  false
-menu:   false
+menu:   true
 order:  1
 ---
 
