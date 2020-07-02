@@ -5,6 +5,8 @@ papers:
     title: "A Theory of Usable Information under Computational Constraints"
     authors: "Yilun Xu, Shengjia Zhao, Jiaming Song, Russell Stewart, Stefano Ermon"
     booktitle: "ICLR 2020 (Oral)"
+    code-url:
+    pdf-url: https://openreview.net/pdf?id=r1eBeyHFDH
     venue: conference
     selected: yes
     doc-url: https://openreview.net/forum?id=r1eBeyHFDH&noteId=r1eBeyHFDH
@@ -12,9 +14,11 @@ papers:
     paper-type: inproceedings
     year: 2010
     title: "Max-MIG: an Information Theoretic Approach for Joint Learning from Crowds"
-    authors: "Peng Cao^*, Yilun Xu^*, Yuqing Kong, Yizhou Wang"
+    authors: "Peng Cao*, Yilun Xu*, Yuqing Kong, Yizhou Wang"
     booktitle: "ICLR 2019"
     doc-url: https://openreview.net/forum?id=BJg9DoR9t7&noteId=BJg9DoR9t7
+    code-url: https://github.com/Newbeeer/Max-MIG
+    pdf-url: https://openreview.net/pdf?id=BJg9DoR9t7
     venue: conference
     selected: yes
   - layout: paper
@@ -26,3 +30,5 @@ papers:
     booktitle: "NeurIPS 2019"
     doc-url: https://neurips.cc/Conferences/2019/Schedule?showEvent=13738
     venue: conference
+    code-url: https://github.com/Newbeeer/L_DMI
+    pdf-url: https://arxiv.org/pdf/1909.03388.pdf

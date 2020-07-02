@@ -8,7 +8,8 @@
 {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}<br/>
 {% case include.paper.paper-type %}
   {% when "inproceedings" %}
-    In <i>{{ include.paper.booktitle }}</i>. <a href="{{ include.paper.doc-url }}">[PDF]</a>,<a href="{{ include.paper.doc-url }}">[Code]</a>
+    In <i>{{ include.paper.booktitle }}</i>.<br/>
+    <a href="{{ include.paper.pdf-url }}">[PDF]</a>,<a href="{{ include.paper.code-url }}">[Code]</a>
   {% when "article" %}
     In <i>{{ include.paper.journal }}</i>,
       {% if include.paper.volume %}{{ include.paper.volume }}{% endif %}{% if include.paper.number %}({{ include.paper.number }}){% endif %}
