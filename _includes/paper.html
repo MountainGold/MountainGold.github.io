@@ -3,7 +3,7 @@
 {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}<br/>
 {% case include.paper.paper-type %}
   {% when "inproceedings" %}
-    In <i>{{ include.paper.booktitle }}</i>.
+    In <i><h1 style="color:blue;">{{ include.paper.booktitle }}</h1></i>.
   {% when "article" %}
     In <i>{{ include.paper.journal }}</i>,
       {% if include.paper.volume %}{{ include.paper.volume }}{% endif %}{% if include.paper.number %}({{ include.paper.number }}){% endif %}
