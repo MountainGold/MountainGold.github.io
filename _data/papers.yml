@@ -3,7 +3,7 @@ papers:
     paper-type: inproceedings
     year: 2020
     title: "A Theory of Usable Information under Computational Constraints"
-    authors: <b>Yilun Xu</b>,Shengjia Zhao, Jiaming Song, Russell Stewart, Stefano Ermon
+    authors: <b>Yilun Xu</b>, Shengjia Zhao, Jiaming Song, Russell Stewart, Stefano Ermon
     booktitle: "ICLR 2020 (Oral)"
     code-url:
     pdf-url: https://openreview.net/pdf?id=r1eBeyHFDH
