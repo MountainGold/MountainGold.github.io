@@ -22,3 +22,9 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
 {% endfor %}
 </ul>
 
+# Miscellaneous
+
+I am a national second-class table tennis player in China XD.
+
+I have been playing PUBG (mobile), LoL a lot. Fine me out! 
+
