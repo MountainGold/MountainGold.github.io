@@ -34,12 +34,12 @@ tagline:               >
 keywords:              []
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/img/aaron.jpeg
+logo:                  /assets/img/aaron_sq.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Yilun Xu
-  picture:             /assets/img/aaron.jpeg
+  picture:             /assets/img/aaron_sq.png
   social:
     github:              newbeeer
     email:               'ylxu@mit.edu'
