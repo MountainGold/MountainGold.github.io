@@ -12,17 +12,6 @@ papers:
     doc-url: https://openreview.net/forum?id=r1eBeyHFDH&noteId=r1eBeyHFDH
   - layout: paper
     paper-type: inproceedings
-    year: 2010
-    title: "Max-MIG: an Information Theoretic Approach for Joint Learning from Crowds"
-    authors: "Peng Cao*, Yilun Xu*, Yuqing Kong, Yizhou Wang"
-    booktitle: "ICLR 2019"
-    doc-url: https://openreview.net/forum?id=BJg9DoR9t7&noteId=BJg9DoR9t7
-    code-url: https://github.com/Newbeeer/Max-MIG
-    pdf-url: https://openreview.net/pdf?id=BJg9DoR9t7
-    venue: conference
-    selected: yes
-  - layout: paper
-    paper-type: inproceedings
     selected: yes
     year: 2019
     title: "L_{DMI} : A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise"
@@ -32,3 +21,14 @@ papers:
     venue: conference
     code-url: https://github.com/Newbeeer/L_DMI
     pdf-url: https://arxiv.org/pdf/1909.03388.pdf
+  - layout: paper
+    paper-type: inproceedings
+    year: 2010
+    title: "Max-MIG: an Information Theoretic Approach for Joint Learning from Crowds"
+    authors: "Peng Cao*, Yilun Xu*, Yuqing Kong, Yizhou Wang"
+    booktitle: "ICLR 2019"
+    doc-url: https://openreview.net/forum?id=BJg9DoR9t7&noteId=BJg9DoR9t7
+    code-url: https://github.com/Newbeeer/Max-MIG
+    pdf-url: https://openreview.net/pdf?id=BJg9DoR9t7
+    venue: conference
+    selected: yes
