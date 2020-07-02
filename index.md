@@ -9,7 +9,7 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
 
 **Contact**: ylxu@mit.edu , xuyilun@pku.edu.cn
 
-## Publications 
+# Publications 
 (*) denotes equal contribution
 
 <ul>
