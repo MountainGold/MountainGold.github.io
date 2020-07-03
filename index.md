@@ -37,7 +37,7 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
     <img src="/assets/img/pku.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h2>Sept. 2016 - July. 2020: Peking University, Beijing</h2>
+    <h3>Sept. 2016 - July. 2020: Peking University, Beijing</h3>
     <p>B.S. in Turing Class, Computer Science (summa cum laude).</p>
   </div>
 </div>
@@ -47,7 +47,7 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
     <img src="/assets/img/stanford.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h2>Jun. 2019 - Sept. 2019: Stanford University, Palo Alto</h2>
+    <h3>Jun. 2019 - Sept. 2019: Stanford University, Palo Alto</h3>
     <p>Visiting student in Prof.Stefano Ermon's lab.
     <ul>
   <li>
