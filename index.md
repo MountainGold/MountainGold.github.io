@@ -32,7 +32,7 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
 
 # Experience
 
-<IMG SRC=”/assets/img/pku.png” ALIGN=”right” />
+<img src=”/assets/img/pku.png” alt="kkk">
 
 
 <figure>
