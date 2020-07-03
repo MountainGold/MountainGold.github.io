@@ -31,8 +31,8 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
     <img src="/assets/img/pku.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>Sept. 2016 - July. 2020: Peking University, Beijing</h3>
-    <p>B.S. in Turing Class, Computer Science (summa cum laude).</p>
+    <h3>&nbsp;Sept. 2016 - July. 2020: Peking University, Beijing</h3>
+    <p>&nbsp;&nbsp;&nbsp;B.S. in Turing Class, Computer Science (summa cum laude).</p>
   </div>
 </div>
 
@@ -41,13 +41,8 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
     <img src="/assets/img/stanford.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>Jun. 2019 - Sept. 2019: Stanford University, Palo Alto</h3>
-    <p>Visiting student in Prof.Stefano Ermon's lab.
-    <ul>
-  <li>
-  Visiting student in Prof.Stefano Ermon's lab.
-  </li>
-</ul>
+    <h3>&nbsp;Jun. 2019 - Sept. 2019: Stanford University, Palo Alto</h3>
+    <p>&nbsp;&nbsp;&nbsp;  Visiting student in Prof.Stefano Ermon's lab.</span></p>
   </div>
 </div>
 
