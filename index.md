@@ -42,7 +42,7 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
   </div>
   <div>
     <h3>&nbsp;Jun. 2019 - Sept. 2019: Stanford University, Palo Alto</h3>
-    <p>&nbsp;&nbsp;&nbsp;  Visiting student in Prof.Stefano Ermon's lab.</span></p>
+    <p>&nbsp;&nbsp;&nbsp;  Visiting student in Prof.Stefano Ermon's lab.</p>
   </div>
 </div>
 
