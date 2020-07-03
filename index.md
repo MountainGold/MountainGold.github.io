@@ -34,7 +34,7 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/pku.png" alt="" width="5=70" height="70">
+    <img src="/assets/img/pku.png" alt="" width="100" height="100">
   </div>
   <div>
     <h2>Sept. 2016 - July. 2020: Peking University, Beijing</h2>
@@ -44,7 +44,7 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/stanford.png" alt="" width="5=70" height="70">
+    <img src="/assets/img/stanford.png" alt="" width="100" height="100">
   </div>
   <div>
     <h2>Jun. 2019 - Sept. 2019: Stanford University, Palo Alto</h2>
