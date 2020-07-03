@@ -45,12 +45,12 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
   - Visiting student in Prof.Stefano Ermon's lab  
   <img src="/assets/img/stanford.png" alt="this is a placeholder image" width="50" height="50">tea
 
-![](/assets/img/stanford.png){: .align-left}
+![](/assets/img/stanford.png){: style="float: left"}
 Something about the first picture.
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/stanford.png" alt="">
+    <img src="/assets/img/stanford.png" alt="" width="50" height="50">
   </div>
   <div>
     <h2>Some title text</h2>
