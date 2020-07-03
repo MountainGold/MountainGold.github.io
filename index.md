@@ -35,9 +35,9 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
 
 
 <figure>
-  <img src="/assets/img/pku.png" alt="this is a placeholder image" width="57" height="120">
+  <img src="/assets/img/pku.png" alt="this is a placeholder image" width="57" height="57">
 </figure>
 
 <figure>
-  <img src="/assets/img/stanford.png" alt="this is a placeholder image">
+  <img src="/assets/img/stanford.png" alt="this is a placeholder image" width="57" height="57">
 </figure>
