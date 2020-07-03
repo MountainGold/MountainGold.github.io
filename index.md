@@ -43,4 +43,7 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
 * Jun. 2019 - Sept. 2019: Stanford University, Beijing China.
 
   - Visiting student in Prof.Stefano Ermon's lab  
-  <img src="/assets/img/stanford.png" alt="this is a placeholder image" width="50" height="50" align=left>tea
+  <img src="/assets/img/stanford.png" alt="this is a placeholder image" width="50" height="50">tea
+
+![](/assets/img/stanford.png){: .align-left}
+Something about the first picture.
