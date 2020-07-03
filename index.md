@@ -32,7 +32,7 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
     <img src="/assets/img/mit.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>&nbsp;&nbsp;&nbsp;Sept. 2020 - : MIT, Boston</h3>
+    <h3>&nbsp;&nbsp;&nbsp;Sept. 2020 - : Massachusetts Institute of Technology, Boston</h3>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Incoming PhD student</p>
   </div>
 </div>
