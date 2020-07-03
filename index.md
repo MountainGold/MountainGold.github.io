@@ -28,4 +28,7 @@ I am a national second-class table tennis player in China XD.
 
 I have been playing PUBG (mobile), LoL a lot. Find me out! 
 
-<img src="https://github.com/Newbeeer/newbeeer.github.io/blob/master/assets/img/aaron.png" width="650px" />
+<figure>
+  <img src="/assets/img/aaron_sq.png" alt="this is a placeholder image">
+  <figcaption>This is a figure caption.</figcaption>
+</figure>
