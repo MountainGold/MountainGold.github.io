@@ -32,28 +32,22 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
 
 # Experience
 
-
-
-* Sept. 2016 - July. 2020: Peking University, Beijing China.
-    - B.S. in Turing Class, Computer Science (summa cum laude)<figure>
-  <img src="/assets/img/pku.png" alt="this is a placeholder image" width="50" height="50">
-</figure>sadfsadf   asdf    
-
-
-* Jun. 2019 - Sept. 2019: Stanford University, Beijing China.
-
-  - Visiting student in Prof.Stefano Ermon's lab  
-  <img src="/assets/img/stanford.png" alt="this is a placeholder image" width="50" height="50">tea
-
-![](/assets/img/stanford.png){: style="float: left"}
-Something about the first picture.
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="/assets/img/pku.png" alt="" width="5=70" height="70">
+  </div>
+  <div>
+    <h2>Sept. 2016 - July. 2020: Peking University, Beijing</h2>
+    <p>B.S. in Turing Class, Computer Science (summa cum laude).</p>
+  </div>
+</div>
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/stanford.png" alt="" width="50" height="50">
+    <img src="/assets/img/stanford.png" alt="" width="5=70" height="70">
   </div>
   <div>
-    <h2>Some title text</h2>
-    <p>Some more text that will appear to the left of the image.</p>
+    <h2>Jun. 2019 - Sept. 2019: Stanford University, Palo Alto</h2>
+    <p>Visiting student in Prof.Stefano Ermon's lab.</p>
   </div>
 </div>
