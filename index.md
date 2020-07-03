@@ -28,6 +28,16 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
+    <img src="/assets/img/mit.png" alt="" width="100" height="100">
+  </div>
+  <div>
+    <h3>&nbsp;&nbsp;&nbsp;Sept. 2020 - : MIT, Boston</h3>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Incoming PhD student</p>
+  </div>
+</div>
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
     <img src="/assets/img/pku.png" alt="" width="100" height="100">
   </div>
   <div>
@@ -42,9 +52,10 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Jun. 2019 - Sept. 2019: Stanford University, Palo Alto</h3>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Visiting student. Advisor: Stefano Ermon</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visiting student. Advisor: Stefano Ermon</p>
   </div>
 </div>
+
 
 
 
