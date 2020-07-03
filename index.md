@@ -32,11 +32,10 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
 
 # Experience
 
-<img src=”/assets/img/pku.png” alt="kkk">
 
 
 <figure>
-  <img src="/assets/img/pku.png" alt="this is a placeholder image">
+  <img src="/assets/img/pku.png" alt="this is a placeholder image" width="57" height="120">
 </figure>
 
 <figure>
