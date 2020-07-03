@@ -48,6 +48,11 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
   </div>
   <div>
     <h2>Jun. 2019 - Sept. 2019: Stanford University, Palo Alto</h2>
-    <p>Visiting student in Prof.Stefano Ermon's lab.</p>
+    <p>Visiting student in Prof.Stefano Ermon's lab.
+    <ul>
+  <li>
+  Visiting student in Prof.Stefano Ermon's lab.
+  </li>
+</ul>
   </div>
 </div>
