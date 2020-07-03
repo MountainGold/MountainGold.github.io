@@ -37,7 +37,7 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
 * Sept. 2016 - July. 2020: Peking University, Beijing China.
     - B.S. in Turing Class, Computer Science (summa cum laude)<figure>
   <img src="/assets/img/pku.png" alt="this is a placeholder image" width="50" height="50">
-</figure>       
+</figure>sadfsadf   asdf    
 
 
 * Jun. 2019 - Sept. 2019: Stanford University, Beijing China.
