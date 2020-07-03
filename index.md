@@ -28,8 +28,11 @@ I am a national second-class table tennis player in China XD.
 
 I have been playing PUBG (mobile), LoL a lot. Find me out! 
 
+
+
+# Experience
 <figure>
-  <img src="/assets/img/pku.png" alt="this is a placeholder image">
+  <img src="/assets/img/pku.png" alt="this is a placeholder image",style="width=70%">
 </figure>
 
 <figure>
