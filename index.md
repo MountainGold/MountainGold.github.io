@@ -34,13 +34,16 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
 
 
 
-* Sept. 2016 - July.2020: Peking University, Beijing China.
-    - B.S. in Turing Class, Computer Science (summa cum laude)          <figure>
+* Sept. 2016 - July. 2020: Peking University, Beijing China.
+    - B.S. in Turing Class, Computer Science (summa cum laude)   <figure>
   <img src="/assets/img/pku.png" alt="this is a placeholder image" width="70" height="70">
-</figure>
+</figure>       
 
-* Jun. 2019 - Sept.2019: Stanford University, Beijing China.
 
-  - Visiting student in Prof.Stefano Ermon's lab <figure>
+* Jun. 2019 - Sept. 2019: Stanford University, Beijing China.
+
+  - Visiting student in Prof.Stefano Ermon's lab
+  
+ <figure>
   <img src="/assets/img/stanford.png" alt="this is a placeholder image" width="70" height="70">
 </figure>
