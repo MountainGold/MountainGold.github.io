@@ -11,16 +11,16 @@ papers:
     selected: yes
     doc-url: https://openreview.net/forum?id=r1eBeyHFDH&noteId=r1eBeyHFDH
   - layout: paper
-      paper-type: inproceedings
-      year: 2020
-      title: "TCGM: An Information-Theoretic Framework for Semi-Supervised Multi-Modality Learning"
-      authors: Xinwei Sun*, <b>Yilun Xu*</b>, Peng Cao, Yuqing Kong, Lingjing Hu, Shanghang Zhang, Yizhou Wang
-      booktitle: "ECCV 2020 (Oral)"
-      doc-url: https://openreview.net/forum?id=kWsJSKQuz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dthecvf.com%2FECCV%2F2020%2FConference%2FAuthors%23your-submissions)
-      code-url: https://github.com/Newbeeer/Max-MIG
-      pdf-url: https://openreview.net/pdf?id=BJg9DoR9t7
-      venue: conference
-      selected: yes
+    paper-type: inproceedings
+    year: 2020
+    title: "TCGM: An Information-Theoretic Framework for Semi-Supervised Multi-Modality Learning"
+    authors: Xinwei Sun*, <b>Yilun Xu*</b>, Peng Cao, Yuqing Kong, Lingjing Hu, Shanghang Zhang, Yizhou Wang
+    booktitle: "ECCV 2020 (Oral)"
+    doc-url: https://openreview.net/pdf?id=BJg9DoR9t7
+    code-url: https://github.com/Newbeeer/Max-MIG
+    pdf-url: https://openreview.net/pdf?id=BJg9DoR9t7
+    venue: conference
+    selected: yes
   - layout: paper
     paper-type: inproceedings
     selected: yes
