@@ -32,6 +32,10 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
 
 # Experience
 <figure>
+<IMG SRC=”/assets/img/pku.png” ALIGN=”right” />
+</figure>
+
+<figure>
   <img src="/assets/img/pku.png" alt="this is a placeholder image",style="width=70%">
 </figure>
 
