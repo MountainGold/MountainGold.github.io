@@ -47,3 +47,13 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
 
 ![](/assets/img/stanford.png){: .align-left}
 Something about the first picture.
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="/assets/img/stanford.png" alt="">
+  </div>
+  <div>
+    <h2>Some title text</h2>
+    <p>Some more text that will appear to the left of the image.</p>
+  </div>
+</div>
