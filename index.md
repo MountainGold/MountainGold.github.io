@@ -36,7 +36,7 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
 </figure>
 
 <figure>
-  <img src="/assets/img/pku.png" alt="this is a placeholder image",style="width=70%">
+  <img src="/assets/img/pku.png" alt="this is a placeholder image">
 </figure>
 
 <figure>
