@@ -44,4 +44,3 @@ I have been playing PUBG (mobile), LoL a lot. Find me out!
 
   - Visiting student in Prof.Stefano Ermon's lab  <figure>
   <img src="/assets/img/stanford.png" alt="this is a placeholder image" width="50" height="50">
-</figure>
