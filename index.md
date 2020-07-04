@@ -43,7 +43,8 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Sept. 2016 - July. 2020: Peking University, Beijing</h3>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Turing Class, Computer Science (summa cum laude). Advisor: Yizhou Wang</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Turing Class, Computer Science (summa cum laude).</p>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Yizhou Wang</p>
   </div>
 </div>
 
@@ -54,6 +55,7 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Jun. 2019 - Sept. 2019: Stanford University, Palo Alto</h3>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visiting student. Advisor: Stefano Ermon</p>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Stefano Ermon</p>
   </div>
 </div>
 
