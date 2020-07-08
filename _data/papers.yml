@@ -31,7 +31,7 @@ papers:
     doc-url: https://neurips.cc/Conferences/2019/Schedule?showEvent=13738
     venue: conference
     code-url: https://github.com/Newbeeer/L_DMI
-    pdf-url: https://arxiv.org/pdf/1909.03388.pdf
+    pdf-url: newbeeer.github.io/assets/files/dmi.pdf
   - layout: paper
     paper-type: inproceedings
     year: 2010
