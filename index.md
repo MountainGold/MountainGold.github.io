@@ -34,6 +34,7 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Sept. 2020 - : Massachusetts Institute of Technology, Boston</h3>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Incoming PhD student</p>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Tommi Jaakkola</p
   </div>
 </div>
 
@@ -54,7 +55,7 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Jun. 2019 - Sept. 2019: Stanford University, Palo Alto</h3>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visiting student. Advisor: Stefano Ermon</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visiting student.</p>
     <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Stefano Ermon</p>
   </div>
 </div>
