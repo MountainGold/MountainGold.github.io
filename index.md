@@ -59,8 +59,6 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
     <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Stefano Ermon</p>
   </div>
 </div>
-
-
 <br/>
 
 # Miscellaneous
