@@ -4,7 +4,7 @@ title: About me
 cover: false
 ---
 
-Hi, I am Yilun Xu. I just obtained my Bacheor’s degree from Turing Class in EECS dept, Peking University. I had the privilege of working with [Yizhou Wang](http://cfcs.pku.edu.cn/faculty/adjunct/wangyizhou/index.htm) and [Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) in PKU, and [Stefano Ermon](https://cs.stanford.edu/~ermon/) in Stanford. I will attend MIT for my PhD study this Sept.
+Hi, I am Yilun Xu. I am incoming PhD student in MIT, advised by [Tommi Jaakkola](https://people.csail.mit.edu/tommi/tommi.html). I just obtained my Bacheor’s degree from Turing Class in EECS dept, Peking University. I had the privilege of working with [Yizhou Wang](http://cfcs.pku.edu.cn/faculty/adjunct/wangyizhou/index.htm) and [Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) in PKU, and [Stefano Ermon](https://cs.stanford.edu/~ermon/) in Stanford.
  
 My research interests are machine learning. Previously, I mainly focus on bridging information theory and machine learning.
 
