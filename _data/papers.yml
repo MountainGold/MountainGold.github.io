@@ -9,7 +9,7 @@ papers:
       pdf-url: newbeeer.github.io/assets/files/anytime_paper.pdf
       venue: conference
       selected: yes
-      doc-url: newbeeer.github.io/assets/files/anytime_paper.pdf
+      doc-url:
   - layout: paper
     paper-type: inproceedings
     year: 2020
