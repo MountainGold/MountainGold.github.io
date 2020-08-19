@@ -3,7 +3,7 @@ papers:
     paper-type: inproceedings
     year: 2020
     title: "Anytime Sampling for Autoregressive Models via Ordered Autoencoding"
-    authors: <b>Yilun Xu</b>, Yang Song, Sahaj Garg, Lingyuan Gong, Aditya Grover, Rui Shu, Stefano Ermon
+    authors: <b>Yilun Xu*</b>, Yang Song*, Sahaj Garg, Lingyuan Gong, Aditya Grover, Rui Shu, Stefano Ermon
     booktitle: "in submission"
     code-url:
     pdf-url: newbeeer.github.io/assets/files/anytime_paper.pdf
