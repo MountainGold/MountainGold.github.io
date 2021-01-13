@@ -12,6 +12,17 @@ papers:
 #    doc-url:
   - layout: paper
     paper-type: inproceedings
+    year: 2021
+    title: "Anytime Sampling for Autoregressive Models via Ordered Autoencoding"
+    authors: <b>Yilun Xu</b>, Yang Song, Sahaj Garg, Linyuan Gong, Rui Shu, Aditya Grover, Stefano Ermon
+    booktitle: "ICLR 2021"
+    code-url: https://github.com/Newbeeer/Anytime-Auto-Regressive-Model
+    pdf-url: https://openreview.net/forum?id=TSRTzJnuEBS
+    venue: conference
+    selected: yes
+    doc-url: https://openreview.net/forum?id=TSRTzJnuEBS
+  - layout: paper
+    paper-type: inproceedings
     year: 2020
     title: "A Theory of Usable Information under Computational Constraints"
     authors: <b>Yilun Xu</b>, Shengjia Zhao, Jiaming Song, Russell Stewart, Stefano Ermon

@@ -33,7 +33,7 @@ My research interests are machine learning. Previously, I mainly focus on bridgi
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Sept. 2020 - : Massachusetts Institute of Technology, Boston</h3>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Incoming PhD student</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD student</p>
     <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Tommi Jaakkola</p>
   </div>
 </div>
