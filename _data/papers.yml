@@ -16,11 +16,11 @@ papers:
     title: "Can Subnetwork Structure Be the Key to Out-of-Distribution Generalization?"
     authors: Dinghuai Zhang, Kartik Ahuja, <b>Yilun Xu</b>, Yisen Wang, Aaron Courville
     booktitle: "ICML 2021 (Long talk)"
-    code-url:
-    pdf-url:
+    code-url: yilun-xu.com
+    pdf-url: yilun-xu.com
     venue: conference
     selected: yes
-    doc-url:
+    doc-url: yilun-xu.com
   - layout: paper
     paper-type: inproceedings
     year: 2021
