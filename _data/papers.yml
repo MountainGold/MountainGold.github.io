@@ -13,6 +13,17 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2021
+    title: "Can Subnetwork Structure Be the Key to Out-of-Distribution Generalization?"
+    authors: Dinghuai Zhang, Kartik Ahuja, <b>Yilun Xu</b>, Yisen Wang, Aaron Courville
+    booktitle: "ICML 2021 (Long talk)"
+    code-url:
+    pdf-url:
+    venue: conference
+    selected: yes
+    doc-url:
+  - layout: paper
+    paper-type: inproceedings
+    year: 2021
     title: "Anytime Sampling for Autoregressive Models via Ordered Autoencoding"
     authors: <b>Yilun Xu</b>, Yang Song, Sahaj Garg, Linyuan Gong, Rui Shu, Aditya Grover, Stefano Ermon
     booktitle: "ICLR 2021"
