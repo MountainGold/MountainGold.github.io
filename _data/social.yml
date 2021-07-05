@@ -34,6 +34,10 @@ spotify:
 telegram:
   name: Telegram
   icon: icon-telegram
+GoogleScholar:
+  name: GoogleScholar
+  icon: icon-GoogleScholar
+  prepend: 'https://scholar.google.com/'
 twitter:
   name: Twitter
   icon: icon-twitter

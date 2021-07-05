@@ -60,6 +60,9 @@
 .icon-link:before {
   content: "\e9cb";
 }
+.icon-GoogleScholar:before {
+  content: "\e9f9";
+}
 .icon-star-empty:before {
   content: "\2606";
 }
