@@ -15,9 +15,9 @@
       {% include components/social-list-item.html platform="github" username=github_username %}
     {% endif %}
 
-    {% assign GoogleScholar_username = author.GoogleScholar.username | default: author.GoogleScholar | default:site.GoogleScholar.username | default:site.GoogleScholar | default:site.GoogleScholar_username %}
-    {% if GoogleScholar_username %}
-      {% include components/social-list-item.html platform="GoogleScholar" username=GoogleScholar_username %}
+    {% assign googlescholar_username = author.googlescholar.username | default: author.googlescholar | default:site.googlescholar.username | default:site.googlescholar | default:site.googlescholar_username %}
+    {% if googlescholar_username %}
+      {% include components/social-list-item.html platform="googlescholar" username=googlescholar_username %}
     {% endif %}
 
     {% assign email = author.email | default: site.email %}
