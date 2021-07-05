@@ -15,10 +15,10 @@
       {% include components/social-list-item.html platform="github" username=github_username %}
     {% endif %}
 
-    {% assign GoogleScholar_username = author.GoogleScholar.username | default: author.GoogleScholar | default:site.GoogleScholar.username | default:site.GoogleScholar | default:site.GoogleScholar
-    {% if GoogleScholar_username %}
-      {% include components/social-list-item.html platform="GoogleScholar" username=GoogleScholar_username %}
-    {% endif %}
+{#    {% assign GoogleScholar_username = author.GoogleScholar.username | default: author.GoogleScholar | default:site.GoogleScholar.username | default:site.GoogleScholar | default:site.GoogleScholar#}
+{#    {% if GoogleScholar_username %}#}
+{#      {% include components/social-list-item.html platform="GoogleScholar" username=GoogleScholar_username %}#}
+{#    {% endif %}#}
 
     {% assign email = author.email | default: site.email %}
     {% if email %}
