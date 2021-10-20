@@ -13,6 +13,17 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2021
+    title: "Learning Representations that Support Robust Transfer of Predictors"
+    authors:  <b>Yilun Xu</b>, Tommi Jaakkola
+    booktitle: "preprint"
+    code-url: https://github.com/Newbeeer/TRM
+    pdf-url: https://arxiv.org/abs/2110.09940
+    venue: conference
+    selected: yes
+    doc-url: https://arxiv.org/abs/2110.09940
+  - layout: paper
+    paper-type: inproceedings
+    year: 2021
     title: "Can Subnetwork Structure Be the Key to Out-of-Distribution Generalization?"
     authors: Dinghuai Zhang, Kartik Ahuja, <b>Yilun Xu</b>, Yisen Wang, Aaron Courville
     booktitle: "ICML 2021 (Long talk)"
