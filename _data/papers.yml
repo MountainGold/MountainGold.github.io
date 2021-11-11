@@ -13,9 +13,20 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2021
+    title: "Controlling Directions Orthogonal to a Classifier"
+    authors: <b>Yilun Xu</b>, Hao He, Tianxiao Shen, Tommi Jaakkola
+    booktitle: "submission"
+    code-url:
+    pdf-url:
+    venue: conference
+    selected: yes
+    doc-url:
+  - layout: paper
+    paper-type: inproceedings
+    year: 2021
     title: "Learning Representations that Support Robust Transfer of Predictors"
     authors:  <b>Yilun Xu</b>, Tommi Jaakkola
-    booktitle: "preprint"
+    booktitle: "submission"
     code-url: https://github.com/Newbeeer/TRM
     pdf-url: https://arxiv.org/abs/2110.09940
     venue: conference
@@ -28,10 +39,10 @@ papers:
     authors: Dinghuai Zhang, Kartik Ahuja, <b>Yilun Xu</b>, Yisen Wang, Aaron Courville
     booktitle: "ICML 2021 (Long talk)"
     code-url: yilun-xu.com
-    pdf-url: yilun-xu.com
+    pdf-url: https://arxiv.org/abs/2106.02890
     venue: conference
     selected: yes
-    doc-url: yilun-xu.com
+    doc-url: https://arxiv.org/abs/2106.02890
   - layout: paper
     paper-type: inproceedings
     year: 2021
