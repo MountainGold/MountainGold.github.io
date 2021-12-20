@@ -11,3 +11,13 @@
  *
  * Powered by Hydejack v8.0.0 <https://hydejack.com/>
  */
+ 
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?ed2ca9163313d164ef46b223f8cb51b7";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
