@@ -4,9 +4,9 @@ title: About me
 cover: false
 ---
 
-Hi, I am Hongyin Chen. I am a second-year PhD student in Peking University, advised by [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). I obtained my Bacheor’s degree from the first Turing Class in EECS dept, Peking University. 
+Hi, I am Hongyin Chen. I am a second-year Ph.D. student at Peking University, advised by [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). I obtained my Bachelor's degree from the first Turing Class in EECS dept, Peking University. 
  
-My research interests are blockchain, mechanism design, algorithmic game theory and reinforcement learning.
+My research interests are blockchain, mechanism design, algorithmic game theory, and reinforcement learning.
 
 **Contact**: chenhongyin[at]pku.edu.cn
 
@@ -59,7 +59,7 @@ My research interests are blockchain, mechanism design, algorithmic game theory 
 # Miscellaneous
 
 * **Sports**: basketball, swimming, tennis.
-* **Video Games**: League of Legends, Monster Hunter, Animal Crossing and so on.
+* **Video Games**: League of Legends, Monster Hunter, Animal Crossing, and so on.
 
 # Service 
 
