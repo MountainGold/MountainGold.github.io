@@ -16,7 +16,7 @@ papers:
     title: "ABSNFT: Securitization and Repurchase Scheme for Non-Fungible Tokens Based on Game Theoretical Analysis"
     authors: <b>Hongyin Chen</b>, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Linxuan Rong
     booktitle: "Financial Cryptography and Data Security 2022"
-    code-url:
+    code-url: 
     pdf-url:
     venue: conference
     selected: yes
@@ -29,7 +29,7 @@ papers:
     booktitle: "IEEE Transactions on Cloud Computing"
     code-url: 
     pdf-url: https://ieeexplore.ieee.org/abstract/document/9626619
-    venue: journal
+    venue: conference
     selected: yes
     doc-url: 
   - layout: paper
