@@ -11,90 +11,46 @@ papers:
 #    selected: yes
 #    doc-url:
   - layout: paper
-    paper-type: inproceedings
-    year: 2021
-    title: "Controlling Directions Orthogonal to a Classifier"
-    authors: <b>Yilun Xu</b>, Hao He, Tianxiao Shen, Tommi Jaakkola
-    booktitle: "submission"
+    paper-type: to appear
+    year: 2022
+    title: "ABSNFT: Securitization and Repurchase Scheme for Non-Fungible Tokens Based on Game Theoretical Analysis"
+    authors: <b>Hongyin Chen</b>, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Linxuan Rong
+    booktitle: "Financial Cryptography and Data Security 2022"
     code-url:
     pdf-url:
     venue: conference
     selected: yes
     doc-url:
   - layout: paper
-    paper-type: inproceedings
+    paper-type: to appear
     year: 2021
-    title: "Learning Representations that Support Robust Transfer of Predictors"
-    authors:  <b>Yilun Xu</b>, Tommi Jaakkola
-    booktitle: "submission"
-    code-url: https://github.com/Newbeeer/TRM
-    pdf-url: https://arxiv.org/abs/2110.09940
-    venue: conference
+    title: "A Provable Softmax Reputation-Based Protocol for Permissioned Blockchains"
+    authors:  <b>Hongyin Chen</b>, Zhaohua Chen, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Jichen Li, Hongyi Ling, Mengqian Zhang
+    booktitle: "IEEE Transactions on Cloud Computing"
+    code-url: 
+    pdf-url: https://ieeexplore.ieee.org/abstract/document/9626619
+    venue: journal
     selected: yes
-    doc-url: https://arxiv.org/abs/2110.09940
+    doc-url: 
   - layout: paper
     paper-type: inproceedings
     year: 2021
-    title: "Can Subnetwork Structure Be the Key to Out-of-Distribution Generalization?"
-    authors: Dinghuai Zhang, Kartik Ahuja, <b>Yilun Xu</b>, Yisen Wang, Aaron Courville
-    booktitle: "ICML 2021 (Long talk)"
-    code-url: yilun-xu.com
-    pdf-url: https://arxiv.org/abs/2106.02890
-    venue: conference
-    selected: yes
-    doc-url: https://arxiv.org/abs/2106.02890
-  - layout: paper
-    paper-type: inproceedings
-    year: 2021
-    title: "Anytime Sampling for Autoregressive Models via Ordered Autoencoding"
-    authors: <b>Yilun Xu</b>, Yang Song, Sahaj Garg, Linyuan Gong, Rui Shu, Aditya Grover, Stefano Ermon
-    booktitle: "ICLR 2021"
-    code-url: https://github.com/Newbeeer/Anytime-Auto-Regressive-Model
-    pdf-url: https://openreview.net/forum?id=TSRTzJnuEBS
-    venue: conference
-    selected: yes
-    doc-url: https://openreview.net/forum?id=TSRTzJnuEBS
-  - layout: paper
-    paper-type: inproceedings
-    year: 2020
-    title: "A Theory of Usable Information under Computational Constraints"
-    authors: <b>Yilun Xu</b>, Shengjia Zhao, Jiaming Song, Russell Stewart, Stefano Ermon
-    booktitle: "ICLR 2020 (Oral)"
+    title: "Poster: An Efficient Permissioned Blockchain with Provable Reputation Mechanism"
+    authors: <b>Hongyin Chen</b>, Zhaohua Chen, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Jichen Li, Hongyi Ling, Mengqian Zhang
+    booktitle: "ICDCS 2021"
     code-url:
-    pdf-url: https://openreview.net/pdf?id=r1eBeyHFDH
+    pdf-url: https://ieeexplore.ieee.org/abstract/document/9546418/
     venue: conference
     selected: yes
-    doc-url: https://openreview.net/forum?id=r1eBeyHFDH&noteId=r1eBeyHFDH
+    doc-url: 
   - layout: paper
     paper-type: inproceedings
-    year: 2020
-    title: "TCGM: An Information-Theoretic Framework for Semi-Supervised Multi-Modality Learning"
-    authors: Xinwei Sun*, <b>Yilun Xu*</b>, Peng Cao, Yuqing Kong, Lingjing Hu, Shanghang Zhang, Yizhou Wang
-    booktitle: "ECCV 2020 (Oral)"
-    doc-url: https://openreview.net/pdf?id=BJg9DoR9t7
-    code-url: https://github.com/Newbeeer/Max-MIG
-    pdf-url: https://openreview.net/pdf?id=BJg9DoR9t7
+    year: 2021
+    title: "Cycledger: A scalable and secure parallel protocol for distributed ledger via sharding"
+    authors: Mengqian Zhang, Jichen Li, Zhaohua Chen, <b>Hongyin Chen</b>, Xiaotie Deng
+    booktitle: "ICLR 2021"
+    code-url: 
+    pdf-url: https://ieeexplore.ieee.org/abstract/document/9139886
     venue: conference
     selected: yes
-  - layout: paper
-    paper-type: inproceedings
-    selected: yes
-    year: 2019
-    title: "L_{DMI} : A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise"
-    authors: <b>Yilun Xu*</b>, Peng Cao*, Yuqing Kong, Yizhou Wang
-    booktitle: "NeurIPS 2019"
-    doc-url: https://neurips.cc/Conferences/2019/Schedule?showEvent=13738
-    venue: conference
-    code-url: https://github.com/Newbeeer/L_DMI
-    pdf-url: newbeeer.github.io/assets/files/dmi.pdf
-  - layout: paper
-    paper-type: inproceedings
-    year: 2010
-    title: "Max-MIG: an Information Theoretic Approach for Joint Learning from Crowds"
-    authors: Peng Cao*, <b>Yilun Xu*</b>, Yuqing Kong, Yizhou Wang
-    booktitle: "ICLR 2019"
-    doc-url: https://openreview.net/forum?id=BJg9DoR9t7&noteId=BJg9DoR9t7
-    code-url: https://github.com/Newbeeer/Max-MIG
-    pdf-url: https://openreview.net/pdf?id=BJg9DoR9t7
-    venue: conference
-    selected: yes
+    doc-url: 
