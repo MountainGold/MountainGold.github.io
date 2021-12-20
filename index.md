@@ -8,7 +8,7 @@ Hi, I am Hongyin Chen. I am a second-year PhD student in Peking University, advi
  
 My research interests are blockchain, mechanism design, algorithmic game theory and reinforcement learning.
 
-**Contact**: chenhongyin@pku.edu.cn
+**Contact**: chenhongyin[at]pku.edu.cn
 
 # Publications 
 
