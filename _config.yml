@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url: https://newbeeer.github.io/
+url: https://mountaingold.github.io/
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                Yilun Xu
+title:                Hongyin Chen
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -38,12 +38,12 @@ logo:                  /assets/img/aaron_sq.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Yilun Xu
-  picture:             /assets/img/aaron_sq.png
+  name:                Hongyin Chen
+  picture:             /assets/img/chy.png
   social:
-    github:              newbeeer
-    email:               'ylxu@mit.edu'
-    googlescholar:       citations?user=MU6vjxQAAAAJ&hl=en
+    github:              MountainGold
+    email:               'chenhongyin@pku.edu.cn'
+    googlescholar:       citations?user=OHGoWY0AAAAJ&hl=en
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
