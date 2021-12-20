@@ -4,14 +4,13 @@ title: About me
 cover: false
 ---
 
-Hi, I am Yilun Xu. I am a first year PhD student in MIT, advised by [Tommi Jaakkola](https://people.csail.mit.edu/tommi/tommi.html). I just obtained my Bacheor’s degree from Turing Class in EECS dept, Peking University. I had the privilege of working with [Yizhou Wang](http://cfcs.pku.edu.cn/faculty/adjunct/wangyizhou/index.htm) and [Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) in PKU, and [Stefano Ermon](https://cs.stanford.edu/~ermon/) in Stanford.
+Hi, I am Hongyin Chen. I am a second-year PhD student in Peking University, advised by [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). I obtained my Bacheor’s degree from the first Turing Class in EECS dept, Peking University. 
  
-My research interests are machine learning.
+My research interests are blockchain, mechanism design, algorithmic game theory and reinforcement learning.
 
-**Contact**: ylxu@mit.edu , xuyilun@pku.edu.cn
+**Contact**: chenhongyin@pku.edu.cn
 
 # Publications 
-(*) denotes equal contribution
 
 <ul>
 {% for paper in site.data.papers.papers %}
@@ -27,14 +26,15 @@ My research interests are machine learning.
 
 # Experience
 
+
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/mit.png" alt="" width="100" height="100">
+    <img src="/assets/img/pku.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>&nbsp;&nbsp;&nbsp;Sept. 2020 - : Massachusetts Institute of Technology, Boston</h3>
+    <h3>&nbsp;&nbsp;&nbsp;Sept. 2020 - : Peking University, Beijing</h3>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD student</p>
-    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Tommi Jaakkola</p>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Xiaotie Deng</p>
   </div>
 </div>
 
@@ -45,28 +45,22 @@ My research interests are machine learning.
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Sept. 2016 - July. 2020: Peking University, Beijing</h3>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Turing Class, Computer Science (summa cum laude)</p>
-    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Yizhou Wang</p>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Xiaotie Deng</p>
   </div>
 </div>
 
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/stanford.png" alt="" width="100" height="100">
-  </div>
-  <div>
-    <h3>&nbsp;&nbsp;&nbsp;Jun. 2019 - Sept. 2019: Stanford University, Palo Alto</h3>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visiting student</p>
-    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Stefano Ermon</p>
-  </div>
-</div>
-<br/>
+# Teaching
+* TA of _Theoretical Foundations in Blockchain Technology_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Fall 2020.  
+* TA of _Discrete Math (II) and Interactions_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Spring 2020.  
+* TA of _Theoretical Foundations in Blockchain Technology_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Fall 2019. 
+* TA of _Algorithm Design and Analysis_ by Prof. [Tingting Jiang](https://cs.pku.edu.cn/info/1161/1631.htm), Spring 2019.  
+
 
 # Miscellaneous
 
-I am a national second-class table tennis player in China XD.
-
-I have been playing PUBG (mobile), LoL a lot. Find me out! 
+* **Sports**: basketball, swimming, tennis.
+* **Video Games**: League of Legends, Monster Hunter, Animal Crossing and so on.
 
 # Service 
 
-Reviewer: NeurIPS 2020, 2021; ICLR 2021; ICML 2021
+Reviewer: WWW 2021; TCC
