@@ -25,7 +25,7 @@ papers:
     paper-type: inproceedings
     year: 2021
     title: "A Provable Softmax Reputation-Based Protocol for Permissioned Blockchains"
-    authors:  <b>Hongyin Chen</b>, Zhaohua Chen, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Jichen Li, Hongyi Ling, Mengqian Zhang
+    authors:  <b>Hongyin Chen*</b>, Zhaohua Chen*, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Jichen Li, Hongyi Ling*, Mengqian Zhang
     booktitle: "IEEE Transactions on Cloud Computing"
     code-url: 
     pdf-url: https://ieeexplore.ieee.org/abstract/document/9626619
@@ -36,7 +36,7 @@ papers:
     paper-type: inproceedings
     year: 2021
     title: "Poster: An Efficient Permissioned Blockchain with Provable Reputation Mechanism"
-    authors: <b>Hongyin Chen</b>, Zhaohua Chen, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Jichen Li, Hongyi Ling, Mengqian Zhang
+    authors: <b>Hongyin Chen*</b>, Zhaohua Chen*, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Jichen Li, Hongyi Ling*, Mengqian Zhang
     booktitle: "ICDCS 2021"
     code-url:
     pdf-url: https://ieeexplore.ieee.org/abstract/document/9546418/
@@ -47,7 +47,7 @@ papers:
     paper-type: inproceedings
     year: 2021
     title: "Cycledger: A scalable and secure parallel protocol for distributed ledger via sharding"
-    authors: Mengqian Zhang, Jichen Li, Zhaohua Chen, <b>Hongyin Chen</b>, Xiaotie Deng
+    authors: Mengqian Zhang*, Jichen Li*, Zhaohua Chen*, <b>Hongyin Chen*</b>, Xiaotie Deng
     booktitle: "IPDPS 2020"
     code-url: 
     pdf-url: https://ieeexplore.ieee.org/abstract/document/9139886
