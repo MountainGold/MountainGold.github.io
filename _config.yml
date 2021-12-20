@@ -24,7 +24,7 @@ title:                Hongyin Chen
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A newbie in computer science
+  A PHD student in blockchain
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -70,7 +70,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/jingyuan.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
