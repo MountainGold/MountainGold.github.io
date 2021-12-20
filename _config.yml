@@ -34,12 +34,12 @@ tagline:               >
 keywords:              []
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/img/chy.png
+logo:                  /assets/img/chy.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Hongyin Chen
-  picture:             /assets/img/chy.png
+  picture:             /assets/img/chy.jpg
   social:
     github:              MountainGold
     email:               'chenhongyin@pku.edu.cn'
