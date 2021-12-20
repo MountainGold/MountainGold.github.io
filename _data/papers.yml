@@ -11,7 +11,7 @@ papers:
 #    selected: yes
 #    doc-url:
   - layout: paper
-    paper-type: to appear
+    paper-type: inproceedings
     year: 2022
     title: "ABSNFT: Securitization and Repurchase Scheme for Non-Fungible Tokens Based on Game Theoretical Analysis"
     authors: <b>Hongyin Chen</b>, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Linxuan Rong
@@ -22,7 +22,7 @@ papers:
     selected: yes
     doc-url:
   - layout: paper
-    paper-type: to appear
+    paper-type: inproceedings
     year: 2021
     title: "A Provable Softmax Reputation-Based Protocol for Permissioned Blockchains"
     authors:  <b>Hongyin Chen</b>, Zhaohua Chen, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Jichen Li, Hongyi Ling, Mengqian Zhang
