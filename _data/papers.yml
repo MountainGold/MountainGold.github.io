@@ -48,7 +48,7 @@ papers:
     year: 2021
     title: "Cycledger: A scalable and secure parallel protocol for distributed ledger via sharding"
     authors: Mengqian Zhang, Jichen Li, Zhaohua Chen, <b>Hongyin Chen</b>, Xiaotie Deng
-    booktitle: "ICLR 2021"
+    booktitle: "IPDPS 2020"
     code-url: 
     pdf-url: https://ieeexplore.ieee.org/abstract/document/9139886
     venue: conference
