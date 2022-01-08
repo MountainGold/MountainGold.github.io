@@ -17,10 +17,21 @@ papers:
     authors: <b>Hongyin Chen</b>, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Linxuan Rong
     booktitle: "Financial Cryptography and Data Security 2022"
     code-url: 
-    pdf-url:
+    pdf-url: https://www.ifca.ai/fc22/preproceedings/109.pdf
     venue: conference
     selected: yes
     doc-url:
+    - layout: paper
+    paper-type: inproceedings
+    year: 2021
+    title: "An Efficient and Robust Committee Structure for Sharding Blockchain"
+    authors:  Mengqian Zhang*, Jichen Li*, Zhaohua Chen*, <b>Hongyin Chen*</b>, Xiaotie Deng
+    booktitle: "submission"
+    code-url: 
+    pdf-url: https://arxiv.org/pdf/2112.15322
+    venue: conference
+    selected: yes
+    doc-url: 
   - layout: paper
     paper-type: toappear
     year: 2021
