@@ -21,7 +21,7 @@ papers:
     venue: conference
     selected: yes
     doc-url:
-    - layout: paper
+  - layout: paper
     paper-type: inproceedings
     year: 2021
     title: "An Efficient and Robust Committee Structure for Sharding Blockchain"
