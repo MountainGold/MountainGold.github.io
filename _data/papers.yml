@@ -36,7 +36,7 @@ papers:
     paper-type: toappear
     year: 2021
     title: "A Provable Softmax Reputation-Based Protocol for Permissioned Blockchains"
-    authors:  <b>Hongyin Chen*</b>, Zhaohua Chen*, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Jichen Li, Hongyi Ling*, Mengqian Zhang
+    authors: <b>Hongyin Chen*</b>, Zhaohua Chen*, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Jichen Li, Hongyi Ling*, Mengqian Zhang
     booktitle: "IEEE Transactions on Cloud Computing"
     code-url: 
     pdf-url: https://ieeexplore.ieee.org/abstract/document/9626619
