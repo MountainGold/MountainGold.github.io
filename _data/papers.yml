@@ -13,11 +13,44 @@ papers:
   - layout: paper
     paper-type: toappear
     year: 2022
+    title: "FileInsurer: A Scalable and Reliable Protocol for Decentralized File Storage in Blockchain"
+    authors: <b>Hongyin Chen*</b>, Yuxuan Lu*, Yukun Cheng
+    booktitle: "ICDCS 2022"
+    code-url: 
+    pdf-url:
+    venue: conference
+    selected: yes
+    doc-url: 
+  - layout: paper
+    paper-type: toappear
+    year: 2022
     title: "ABSNFT: Securitization and Repurchase Scheme for Non-Fungible Tokens Based on Game Theoretical Analysis"
     authors: <b>Hongyin Chen</b>, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Linxuan Rong
     booktitle: "Financial Cryptography and Data Security 2022"
     code-url: 
     pdf-url: https://www.ifca.ai/fc22/preproceedings/109.pdf
+    venue: conference
+    selected: yes
+    doc-url:
+  - layout: paper
+    paper-type: toappear
+    year: 2022
+    title: "Auction in Blockchain: Applications and Challenges"
+    authors: <b>Hongyin Chen</b>, Yukun Cheng, Xiaotie Deng, Zhanghao Yao
+    booktitle: "Operations Research Transactions"
+    code-url: 
+    pdf-url:
+    venue: conference
+    selected: yes
+    doc-url:
+  - layout: paper
+    paper-type: toappear
+    year: 2022
+    title: "Decentralized Content Censorship for Creator Economy"
+    authors: <b>Hongyin Chen</b>, Xiaotie Deng, Yuqing Kong, Yuxuan Lu
+    booktitle: "SCIENTIA SINICA Informationis"
+    code-url: 
+    pdf-url:
     venue: conference
     selected: yes
     doc-url:
