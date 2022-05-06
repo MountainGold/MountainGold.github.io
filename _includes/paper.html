@@ -3,7 +3,7 @@
 {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}<br/>
 {% case include.paper.paper-type %}
   {% when "inproceedings" %}
-    In <i>{{ include.paper.booktitle }}</i>.<br/>
+    <i>{{ include.paper.booktitle }}</i>.<br/>
     <a href="{{ include.paper.pdf-url }}" target="_blank">[PDF]</a>,<a href="{{ include.paper.code-url }}">[Code]</a>
   {% when "toappear" %}
     To appear in <i>{{ include.paper.booktitle }}</i>.<br/>
