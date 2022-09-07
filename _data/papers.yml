@@ -55,11 +55,11 @@ papers:
     selected: yes
     doc-url:
   - layout: paper
-    paper-type: inproceedings
-    year: 2021
+    paper-type: toappear
+    year: 2022
     title: "An Efficient and Robust Committee Structure for Sharding Blockchain"
     authors:  Mengqian Zhang*, Jichen Li*, Zhaohua Chen*, <b>Hongyin Chen*</b>, Xiaotie Deng
-    booktitle: "Submitted"
+    booktitle: "IEEE Transactions on Cloud Computing"
     code-url: 
     pdf-url: https://arxiv.org/pdf/2112.15322
     venue: conference
