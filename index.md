@@ -4,7 +4,7 @@ title: About me
 cover: false
 ---
 
-Hi, I am Hongyin Chen. I am a second-year Ph.D. student in Peking University, advised by [Pro.Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). I obtained my Bachelor's degree from the first <b>Turing Class</B> in EECS dept, Peking University. 
+Hi, I am Hongyin Chen. I am a third-year Ph.D. student in Peking University, advised by [Pro.Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). I obtained my Bachelor's degree from the first <b>Turing Class</B> in EECS dept, Peking University. 
  
 My research interests are blockchain, mechanism design, algorithmic game theory, and reinforcement learning.
 
@@ -50,6 +50,7 @@ My research interests are blockchain, mechanism design, algorithmic game theory,
 </div>
 
 # Teaching
+* TA of _Theoretical Foundations in Blockchain Technology_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Fall 2022.
 * TA of _Theoretical Foundations in Blockchain Technology_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Fall 2020.  
 * TA of _Discrete Math (II) and Interactions_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Spring 2020.  
 * TA of _Theoretical Foundations in Blockchain Technology_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Fall 2019. 
@@ -63,6 +64,6 @@ My research interests are blockchain, mechanism design, algorithmic game theory,
 
 # Service 
 
-Reviewer: WWW 2022; ICDCS 2022; AFT 2022; TCC; JSAC.
+Reviewer: AsiaCrypt 2022; WWW 2022; ICDCS 2022; AFT 2022; TCC; JSAC.
 
-Counselor of 3rd-year Turing Class, Peking University.
+Counselor of 4rd-year Turing Class, Peking University.
