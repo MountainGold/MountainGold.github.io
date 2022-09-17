@@ -66,4 +66,4 @@ My research interests are blockchain, mechanism design, algorithmic game theory,
 
 Reviewer: AsiaCrypt 2022; WWW 2022; ICDCS 2022; AFT 2022; TCC; JSAC.
 
-Counselor of 4rd-year Turing Class, Peking University.
+Counselor of 4th-year Turing Class, Peking University.
