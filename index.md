@@ -10,7 +10,7 @@ My research interests are blockchain, mechanism design, algorithmic game theory,
 
 **Contact**: chenhongyin[at]pku.edu.cn
 
-# Selected Publications 
+# Selected Papers 
 (*) denotes equal contribution
 <ul>
 {% for paper in site.data.papers.papers %}
