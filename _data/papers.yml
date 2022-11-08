@@ -33,7 +33,7 @@ papers:
     selected: yes
     doc-url:
   - layout: paper
-    paper-type: article
+    paper-type: inproceedings
     year: 2022
     title: "Sybil-Proof Diffusion Auction in Social Networks"
     authors: <b>Hongyin Chen</b>, Xiaotie Deng, Ying Wang, Yue Wu, Dengji Zhao
