@@ -11,7 +11,7 @@ papers:
 #    selected: yes
 #    doc-url:
   - layout: paper
-    paper-type: toappear
+    paper-type: inproceedings
     year: 2022
     title: "FileInsurer: A Scalable and Reliable Protocol for Decentralized File Storage in Blockchain"
     authors: <b>Hongyin Chen*</b>, Yuxuan Lu*, Yukun Cheng
@@ -22,37 +22,48 @@ papers:
     selected: yes
     doc-url: 
   - layout: paper
-    paper-type: toappear
+    paper-type: inproceedings
     year: 2022
     title: "ABSNFT: Securitization and Repurchase Scheme for Non-Fungible Tokens Based on Game Theoretical Analysis"
     authors: <b>Hongyin Chen</b>, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Linxuan Rong
     booktitle: "Financial Cryptography and Data Security 2022"
     code-url: 
-    pdf-url: https://www.ifca.ai/fc22/preproceedings/109.pdf
+    pdf-url: https://arxiv.org/abs/2202.02199
     venue: conference
     selected: yes
     doc-url:
   - layout: paper
-    paper-type: toappear
+    paper-type: article
+    year: 2022
+    title: "Sybil-Proof Diffusion Auction in Social Networks"
+    authors: <b>Hongyin Chen</b>, Xiaotie Deng, Ying Wang, Yue Wu, Dengji Zhao
+    booktitle: "Submission"
+    code-url: 
+    pdf-url: https://arxiv.org/abs/2211.01984
+    venue: conference
+    selected: yes
+    doc-url:
+  - layout: paper
+    paper-type: inproceedings
     year: 2022
     title: "Auction in Blockchain: Applications and Challenges"
     authors: <b>Hongyin Chen</b>, Yukun Cheng, Xiaotie Deng, Zhanghao Yao
     booktitle: "Operations Research Transactions"
     code-url: 
-    pdf-url:
+    pdf-url: https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=YCXX20220425000&uniplatform=NZKPT&v=zzNe59hAhLsuKwz9xUz_qDe3V5fUJ_59T53bdhsDZXLtD3PWmt5OJSvWIPC9i1oc
     venue: conference
-    selected: yes
+    selected:
     doc-url:
   - layout: paper
-    paper-type: toappear
+    paper-type: inproceedings
     year: 2022
     title: "Decentralized Content Censorship for Creator Economy"
     authors: <b>Hongyin Chen</b>, Xiaotie Deng, Yuqing Kong, Yuxuan Lu
     booktitle: "SCIENTIA SINICA Informationis"
     code-url: 
-    pdf-url:
+    pdf-url: https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=PZKX202206005&uniplatform=NZKPT&v=bhhfS-dej-070gjScsU9OwDK4Gz7BKh9SnFGyGcfa5cp44B6H7AZOvg2yOomaiCm
     venue: conference
-    selected: yes
+    selected:
     doc-url:
   - layout: paper
     paper-type: toappear
@@ -85,7 +96,7 @@ papers:
     code-url:
     pdf-url: https://ieeexplore.ieee.org/abstract/document/9546418/
     venue: conference
-    selected: yes
+    selected:
     doc-url: 
   - layout: paper
     paper-type: inproceedings
