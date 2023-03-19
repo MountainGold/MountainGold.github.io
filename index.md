@@ -40,7 +40,7 @@ My research interests are blockchain, mechanism design, algorithmic game theory,
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/smu.png" alt="" width="100" height="100">
+    <img src="/assets/img/smu.png" alt="" width="100" height="120">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Mar. 2023 - Sept. 2023: Singapore Management University, Singapore</h3>
