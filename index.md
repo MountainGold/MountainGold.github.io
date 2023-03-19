@@ -40,6 +40,17 @@ My research interests are blockchain, mechanism design, algorithmic game theory,
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
+    <img src="/assets/img/smu.png" alt="" width="100" height="100">
+  </div>
+  <div>
+    <h3>&nbsp;&nbsp;&nbsp;Mar. 2023 - Sept. 2023: Singapore Management University, Singapore</h3>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Asistant</p>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Guomin yang</p>
+  </div>
+</div>
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
     <img src="/assets/img/pku.png" alt="" width="100" height="100">
   </div>
   <div>
