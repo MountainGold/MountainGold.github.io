@@ -40,6 +40,17 @@ My research interests are blockchain, mechanism design, algorithmic game theory,
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
+    <img src="/assets/img/TechnionLogo.png" alt="" width="140" height="72">
+  </div>
+  <div>
+    <h3>&nbsp;&nbsp;&nbsp;Sept. 2023 - Aug. 2024: Technion, Haifa</h3>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visiting Student</p>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Ittay Eyal</p>
+  </div>
+</div>
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
     <img src="/assets/img/smu.png" alt="" width="100" height="140">
   </div>
   <div>
