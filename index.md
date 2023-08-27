@@ -40,7 +40,7 @@ My research interests are blockchain, mechanism design, algorithmic game theory,
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/TechnionLogo.png" alt="" width="140" height="72">
+    <img src="/assets/img/Technion_logo.png" alt="" width="96" height="138">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Sept. 2023 - Aug. 2024: Technion, Haifa</h3>
