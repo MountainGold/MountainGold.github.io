@@ -74,7 +74,7 @@ papers:
     code-url: 
     pdf-url: https://arxiv.org/pdf/2112.15322
     venue: conference
-    selected: yes
+    selected:
     doc-url: 
   - layout: paper
     paper-type: toappear
@@ -85,7 +85,7 @@ papers:
     code-url: 
     pdf-url: https://ieeexplore.ieee.org/abstract/document/9626619
     venue: conference
-    selected: yes
+    selected:
     doc-url: 
   - layout: paper
     paper-type: inproceedings
