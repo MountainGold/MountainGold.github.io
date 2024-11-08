@@ -13,6 +13,17 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2022
+    title: "SAMM: Sharded Automated Market Maker"
+    authors: <b>Hongyin Chen</b>, <b>Amit Vaisman</b>, <b>Ittay Eyal</b>
+    booktitle: "Working Paper"
+    code-url: 
+    pdf-url: https://arxiv.org/abs/2406.05568
+    venue: conference
+    selected: yes
+    doc-url: 
+  - layout: paper
+    paper-type: inproceedings
+    year: 2022
     title: "FileInsurer: A Scalable and Reliable Protocol for Decentralized File Storage in Blockchain"
     authors: <b>Hongyin Chen*</b>, Yuxuan Lu*, Yukun Cheng
     booktitle: "ICDCS 2022"
