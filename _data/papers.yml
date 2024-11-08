@@ -14,7 +14,7 @@ papers:
     paper-type: inproceedings
     year: 2024
     title: "SAMM: Sharded Automated Market Maker"
-    authors: <b>Hongyin Chen</b>, <b>Amit Vaisman</b>, <b>Ittay Eyal</b>
+    authors: <b>Hongyin Chen</b>, Amit Vaisman, Ittay Eyal
     booktitle: "Working Paper"
     code-url: 
     pdf-url: https://arxiv.org/abs/2406.05568
