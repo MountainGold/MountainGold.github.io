@@ -84,8 +84,12 @@ My research interests are blockchain, mechanism design, algorithmic game theory,
 * **Sports**: basketball, swimming, tennis.
 * **Video Games**: League of Legends, Monster Hunter, Animal Crossing, and so on.
 
-# Service 
+# Academic Services 
 
 External Reviewer: AsiaCrypt 2022; WWW 2022; ICDCS 2022; AFT 2022; TCC; JSAC.
 
-Counselor of 4th-year Turing Class, Peking University.
+Counselor of 4th-year Turing Class, Peking University (September 2020 to July 2023).
+
+Volunteer for SAGT 2018 (The 11th International Symposium on Algorithmic Game Theory).
+
+Track Chair of the Undergraduate Research Forum at IJTCS 2020 (The 1st International Joint Conference on Theoretical Computer Science).
