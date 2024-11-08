@@ -4,7 +4,7 @@ title: About me
 cover: false
 ---
 
-Hi, I am Hongyin Chen. I am a fourth-year Ph.D. student at Peking University, advised by [Prof. Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). I'm currently visiting [Dr. Ittay Eyal](https://ittayeyal.github.io/)'s group at Technion. I obtained my Bachelor's degree from the first <b>Turing Class</B> in EECS dept, Peking University. 
+Hi, I am Hongyin Chen. I am a last-year Ph.D. student at Peking University, advised by [Prof. Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). I'm currently visiting [Dr. Ittay Eyal](https://ittayeyal.github.io/)'s group at Technion. I obtained my Bachelor's degree from the first <b>Turing Class</B> in EECS dept, Peking University. 
  
 My research interests are blockchain, mechanism design, algorithmic game theory, and reinforcement learning.
 
@@ -86,6 +86,6 @@ My research interests are blockchain, mechanism design, algorithmic game theory,
 
 # Service 
 
-Reviewer: AsiaCrypt 2022; WWW 2022; ICDCS 2022; AFT 2022; TCC; JSAC.
+External Reviewer: AsiaCrypt 2022; WWW 2022; ICDCS 2022; AFT 2022; TCC; JSAC.
 
 Counselor of 4th-year Turing Class, Peking University.
