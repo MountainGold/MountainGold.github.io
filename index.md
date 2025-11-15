@@ -8,7 +8,7 @@ Hi, I am Hongyin Chen. I am currently a postdoctoral researcher in [Prof. Ittay 
  
 My research interests are blockchain, mechanism design, algorithmic game theory, and reinforcement learning.
 
-**Contact**: chenhongyin[at]pku.edu.cn
+**Contact**: hongyin.chen.contact[at]gmail.com
 
 # Selected Papers 
 (*) denotes equal contribution
