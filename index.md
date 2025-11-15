@@ -4,7 +4,7 @@ title: About me
 cover: false
 ---
 
-Hi, I am Hongyin Chen. I am a last-year Ph.D. student at Peking University, advised by [Prof. Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). I'm currently visiting [Dr. Ittay Eyal](https://ittayeyal.github.io/)'s group at Technion. I obtained my Bachelor's degree from the first <b>Turing Class</B> in EECS dept, Peking University. 
+Hi, I am Hongyin Chen. I am currently a postdoctoral researcher in [Prof. Ittay Eyal](https://ittayeyal.github.io/)'s group at the Technion. I received my Ph.D. from Peking University, where I was advised by [Prof. Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). I obtained my Bachelor's degree from the first <b>Turing Class</B> in EECS dept, Peking University. 
  
 My research interests are blockchain, mechanism design, algorithmic game theory, and reinforcement learning.
 
@@ -26,13 +26,24 @@ My research interests are blockchain, mechanism design, algorithmic game theory,
 
 # Experience
 
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="/assets/img/Technion_logo.png" alt="" width="96" height="138">
+  </div>
+  <div>
+    <h3>&nbsp;&nbsp;&nbsp;Aug. 2025 - : Technion, Haifa</h3>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Researcher</p>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Ittay Eyal</p>
+  </div>
+</div>
+
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
     <img src="/assets/img/pku.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>&nbsp;&nbsp;&nbsp;Sept. 2020 - : Peking University, Beijing</h3>
+    <h3>&nbsp;&nbsp;&nbsp;Sept. 2020 - July. 2025: Peking University, Beijing</h3>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD student</p>
     <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Xiaotie Deng</p>
   </div>
