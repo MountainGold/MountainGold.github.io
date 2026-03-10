@@ -3,7 +3,7 @@
 # You can change `author1` to your shortname.
 author1:
   name:              Hongyin Chen
-  email:             chenhongyin@pku.edu.cn
+  email:             hongyin.chen.contact@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -18,7 +18,7 @@ author1:
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
     github:           MountainGold
-    email:            'chenhongyin@pku.edu.cn'
+    email:            'hongyin.chen.contact@gmail.com'
     googlescholar:     citations?user=OHGoWY0AAAAJ&hl=en
     # twitter:           there_are_two_
     # linkedin:        <firstname-lastname-string>

@@ -97,6 +97,8 @@ My research interests are blockchain, mechanism design, algorithmic game theory,
 
 # Academic Services 
 
+Program Committee Member: CAAW 2026.
+
 External Reviewer: AsiaCrypt 2022; WWW 2022; ICDCS 2022; AFT 2022; TCC; JSAC.
 
 Counselor of 4th-year Turing Class, Peking University (September 2020 to July 2023).
@@ -104,3 +106,14 @@ Counselor of 4th-year Turing Class, Peking University (September 2020 to July 20
 Volunteer for SAGT 2018 (The 11th International Symposium on Algorithmic Game Theory).
 
 Track Chair of the Undergraduate Research Forum at IJTCS 2020 (The 1st International Joint Conference on Theoretical Computer Science).
+
+# Awards
+Aly Kaufman Fellowship \hfill \emph{2025}\\
+1st place of IC3 Blockchain Camp Hackathon \hfill \emph{2025}\\
+May 4th Scholarship \hfill \emph{2022}\\
+Merit Student Pacesetter \hfill \emph{2022}\\
+\textbf{Best Paper Nominee of IPDPS 2020} \hfill \emph{2020}\\
+John Hopcroft Scholarship \hfill \emph{2018,2019}\\
+Summa cum laude \hfill \emph{2020}\\
+Guanghua Scholarship \hfill \emph{2017}\\
+Merit Student \hfill \emph{2017}\\

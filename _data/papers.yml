@@ -13,6 +13,17 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2024
+    title: "Prrr: Personal Random Rewards for Blockchain Reporting"
+    authors: <b>Hongyin Chen</b>, Yubin Ke, Xiaotie Deng, Ittay Eyal
+    booktitle: "To appear in S&P 2026"
+    code-url: 
+    pdf-url: https://arxiv.org/abs/2511.12626
+    venue: conference
+    selected: yes
+    doc-url: 
+  - layout: paper
+    paper-type: inproceedings
+    year: 2024
     title: "SAMM: Sharded Automated Market Maker"
     authors: <b>Hongyin Chen</b>, Amit Vaisman, Ittay Eyal
     booktitle: "Working Paper"
