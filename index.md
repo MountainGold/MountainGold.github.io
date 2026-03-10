@@ -108,12 +108,9 @@ Volunteer for SAGT 2018 (The 11th International Symposium on Algorithmic Game Th
 Track Chair of the Undergraduate Research Forum at IJTCS 2020 (The 1st International Joint Conference on Theoretical Computer Science).
 
 # Awards
-Aly Kaufman Fellowship \hfill \emph{2025}\\
-1st place of IC3 Blockchain Camp Hackathon \hfill \emph{2025}\\
-May 4th Scholarship \hfill \emph{2022}\\
-Merit Student Pacesetter \hfill \emph{2022}\\
-\textbf{Best Paper Nominee of IPDPS 2020} \hfill \emph{2020}\\
-John Hopcroft Scholarship \hfill \emph{2018,2019}\\
-Summa cum laude \hfill \emph{2020}\\
-Guanghua Scholarship \hfill \emph{2017}\\
-Merit Student \hfill \emph{2017}\\
+* Aly Kaufman Fellowship <span style="float: right;">*2025*</span>
+* 1st place of IC3 Blockchain Camp Hackathon <span style="float: right;">*2025*</span>
+* May 4th Scholarship <span style="float: right;">*2022*</span>
+* Best Paper Nominee of IPDPS 2020 <span style="float: right;">*2020*</span>
+* John Hopcroft Scholarship <span style="float: right;">*2018, 2019*</span>
+* Summa cum laude <span style="float: right;">*2020*</span>
