@@ -26,7 +26,7 @@ papers:
     year: 2024
     title: "SAMM: Sharded Automated Market Maker"
     authors: <b>Hongyin Chen</b>, Amit Vaisman, Ittay Eyal
-    booktitle: "Working Paper. Invited talks in Avalanche (2024), Sui (2024), and Solana (2025)."
+    booktitle: "Working Paper. Invited talks in Avalanche (2024), Sui (2024), and Solana (2025)"
     code-url: 
     pdf-url: https://arxiv.org/abs/2406.05568
     venue: conference
