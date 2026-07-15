@@ -34,6 +34,17 @@ papers:
     doc-url: 
   - layout: paper
     paper-type: inproceedings
+    year: 2026
+    title: "Arbigraph: Verifiable Turing-Complete Execution Delegation"
+    authors: Michael Mirkin, <b>Hongyin Chen</b>, Ohad Eitan, Gal Granot, Ittay Eyal
+    booktitle: "Working paper"
+    code-url: 
+    pdf-url: http://eprint.iacr.org/2025/710
+    venue: conference
+    selected: yes
+    doc-url: 
+  - layout: paper
+    paper-type: inproceedings
     year: 2022
     title: "FileInsurer: A Scalable and Reliable Protocol for Decentralized File Storage in Blockchain"
     authors: <b>Hongyin Chen*</b>, Yuxuan Lu*, Yukun Cheng
