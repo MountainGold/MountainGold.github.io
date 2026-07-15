@@ -1,7 +1,7 @@
 papers:
   - layout: paper
     paper-type: inproceedings
-    year: 2024
+    year: 2026
     title: "Prrr: Personal Random Rewards for Blockchain Reporting"
     authors: <b>Hongyin Chen</b>, Yubin Ke, Xiaotie Deng, Ittay Eyal
     booktitle: "S&P 2026"
@@ -12,12 +12,23 @@ papers:
     doc-url: 
   - layout: paper
     paper-type: inproceedings
-    year: 2024
+    year: 2026
     title: "SAMM: Sharded Automated Market Maker"
     authors: <b>Hongyin Chen</b>, Amit Vaisman, Ittay Eyal
-    booktitle: "Working Paper. Invited talks in Avalanche (2024), Sui (2024), and Solana (2025)"
+    booktitle: "To appear in AFT 2026. Invited talks in Avalanche (2024), Sui (2024), and Solana (2025)"
     code-url: 
     pdf-url: https://arxiv.org/abs/2406.05568
+    venue: conference
+    selected: yes
+    doc-url: 
+  - layout: paper
+    paper-type: inproceedings
+    year: 2026
+    title: "Time Is Money: Incentivized Causal Transaction Ordering"
+    authors: <b>Hongyin Chen</b>, Xu Zheng, Jichen Li, Ittay Eyal
+    booktitle: "Working paper"
+    code-url: 
+    pdf-url: https://arxiv.org/abs/2607.11496
     venue: conference
     selected: yes
     doc-url: 
