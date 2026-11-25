@@ -24,9 +24,8 @@ toc:
 - Aly Kaufman Fellowship — *2025, 2026*
 - 1st place, IC3 Blockchain Camp Hackathon — *2025*
 - May 4th Scholarship — *2022*
-- Best Paper Candidate, IPDPS — *2020*
+- Best Paper Nominee, IPDPS — *2020*
 - Summa cum laude, Peking University — *2020*
-- John Hopcroft Scholarship — *2018, 2019*
 
 ## Teaching
 
