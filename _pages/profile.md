@@ -37,6 +37,6 @@ toc:
 ## Academic Services
 
 - Program Committee Member: CAAW 2026
-- External Reviewer: AsiaCrypt 2022, WWW 2022, ICDCS 2022, AFT 2022, JSAC
+- External Reviewer: AFT 2026, FC 2026, PODC 2025, AsiaCrypt 2022, WWW 2022, ICDCS 2022, AFT 2022, JSAC
 - Track Chair, Undergraduate Research Forum, IJTCS 2020
 - Volunteer, SAGT 2018
