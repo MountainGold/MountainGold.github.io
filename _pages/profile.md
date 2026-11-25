@@ -10,8 +10,8 @@ toc:
 
 ## Experience
 
-- **Postdoctoral Researcher**, Technion — *Aug 2025 – present*. Advisor: Ittay Eyal.
-- **Visiting Student**, Technion — *Sep 2023 – Feb 2025*. Advisor: Ittay Eyal.
+- **Postdoctoral Researcher**, Technion — *Aug 2025 – present*. Host: Ittay Eyal.
+- **Visiting PhD Student**, Technion — *Sep 2023 – Feb 2025*. Host: Ittay Eyal.
 - **Research Assistant**, Singapore Management University — *Mar 2023 – Aug 2023*. Host: Guomin Yang.
 
 ## Education
@@ -36,6 +36,6 @@ toc:
 ## Academic Services
 
 - Program Committee Member: CAAW 2026
-- External Reviewer: AFT 2026, FC 2026, PODC 2025, AsiaCrypt 2022, WWW 2022, ICDCS 2022, AFT 2022, JSAC
+- External Reviewer: AFT 2026, FC 2026, PODC 2025, Asiacrypt 2022, WWW 2022, ICDCS 2022, AFT 2022, IEEE Transactions on Cloud Computing, IEEE JSAC
 - Track Chair, Undergraduate Research Forum, IJTCS 2020
 - Volunteer, SAGT 2018
